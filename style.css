@@ -107,25 +107,7 @@ nav .fa {
 		display: block;
 	}
 
-	.nav-links {
-		position: absolute;
-		background-color: #f44336;
-		height:100vh;
-		width: 200vh;
-		top: 0;
-		right: -200px;
-		text-align: left;
-		z-index: 2;
-		transition: 1s;
-	}
-
-	nav .fa{
-		display: block;
-		color: #fff;
-		margin: 10px;
-		font-size: 22px;
-		cursor: pointer;
-	}
+	
 
 	.nav-links ul{
 		padding: 30px;
